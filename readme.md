@@ -2,7 +2,7 @@
 
 Simple backend and annotations / data storage in JSON file.
 
-*To learn more about annotatorjs please visit the website : annotatorjs.org*
+*To learn more about annotatorjs please visit the website : http://annotatorjs.org/*
 
 ### Features
 * Read
